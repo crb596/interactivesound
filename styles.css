@@ -1,20 +1,24 @@
 #container{
 	height: 100%;
 	width:100%;
+  	position: relative;
 }
 #text{
 	display: none;
 	text-align:center;
-	font-size:50px;
-	justify-content: center;
-	align-items: center;
-	position:relative;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 #welcome{
 	font-size:50px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 #lion{
 	height:25%;
