@@ -1,4 +1,6 @@
 #container{
+	height: 100%;
+	width:100%;
 }
 #text{
 	display: none;
@@ -7,11 +9,9 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 100%;
-	width:100%;
 	position:relative;
 }
-#button{
+#welcome{
 	font-size:50px;
 }
 #lion{
