@@ -33,6 +33,6 @@ $( "#monkey" ).mouseout(function() {
 });
 
 function start(){
-  $("#text").style.display = 'flex';
+  $("#text").css("display", "flex");
   $("#welcome").hide();
 }
