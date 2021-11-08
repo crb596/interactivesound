@@ -12,6 +12,9 @@
 }
 #welcome{
 	font-size:50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 #lion{
 	height:25%;
