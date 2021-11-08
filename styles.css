@@ -8,6 +8,9 @@
 #container{
 	display: none;
 }
+#button{
+	font-size:50px;
+}
 #lion{
 	height:25%;
 	position:absolute;
