@@ -1,6 +1,6 @@
 //Use jquery on mouse over
 $( "#wolf" ).mouseover(function() {
-  $("#wolfAudio").trigger("play");
+  $("#wolfAudio").play();
   $("#wolf").attr("src","images/wolftalking.png");
 });
 $( "#wolf" ).mouseout(function() {
