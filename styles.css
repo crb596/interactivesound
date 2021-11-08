@@ -1,0 +1,31 @@
+#text{
+	font-size:50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+}
+#lion{
+	height:25%;
+	position:absolute;
+	left:0;
+	top:0;
+}
+#seal{
+	height:25%;
+	position:absolute;
+	left:0;
+	bottom:0;
+}
+#wolf{
+	height:25%;
+	position:absolute;
+	right:0;
+	bottom:0;
+}
+#monkey{
+	height:25%;
+	position:absolute;
+	right:0;
+	top:0;
+}
