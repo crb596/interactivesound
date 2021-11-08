@@ -1,7 +1,7 @@
 #container{
-	display: none;
 }
 #text{
+	display: none;
 	text-align:center;
 	font-size:50px;
 	display: flex;
