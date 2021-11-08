@@ -5,6 +5,9 @@
 	align-items: center;
 	height: 100%;
 }
+#container{
+	display: none;
+}
 #lion{
 	height:25%;
 	position:absolute;
